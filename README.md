@@ -33,10 +33,12 @@ Built as a **DSA-JC Computing / AI / Leadership** portfolio piece.
 
 YouthMentor AI is a safe digital mentor prototype for student wellbeing:
 
-- Mood check-in and structured reflection (6 prompts)
+- Mood check-in and structured reflection (6 prompts) with **voice input** (Web Speech API)
+- Mood intensity **trend chart** on reflection history
+- Home-page **trust metrics** and responsible-AI comparison vs open companions
 - Mentor-style responses and action plans
 - **Layered safety:** keyword scan → risk classifier → crisis-only UI (no coaching LLM on high risk)
-- Character chat with scenario simulations (labeled as AI, not real persons)
+- Character chat with **empathy-first** reply protocol and scenario simulations (labeled as AI)
 - All reflection data stays in the browser (`localStorage`)
 
 **Not** therapy, diagnosis, or emergency care.
@@ -49,6 +51,9 @@ YouthMentor AI is a safe digital mentor prototype for student wellbeing:
 - Multi-provider LLM abstraction with **mock fallback** for reliable demos
 - Structured JSON mentor outputs
 - Safety guardrails designed before coaching prompts
+- Web Speech API voice input on check-in, reflection, and character chat
+- Mood trend visualization from saved local history
+- Empathy-first character chat system prompt (validate feelings before advice)
 - i18n (English / Chinese UI)
 - Freemium limits and parent-mode product thinking
 

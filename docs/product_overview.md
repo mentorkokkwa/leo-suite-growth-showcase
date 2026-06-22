@@ -19,8 +19,11 @@ YouthMentor AI provides **structured reflection** with **hard safety boundaries*
 | Feature | Description |
 |---------|-------------|
 | Reflection flow | Check-in → reflection → mentor response → action plan |
+| Voice input | Web Speech API on check-in, reflection prompts, and character chat |
+| Mood trend | Line chart of mood intensity from saved reflection history |
+| Trust & ethics UI | Home-page metrics and comparison vs engagement-first AI companions |
 | Safety demo | Pre-loaded high-risk sample triggers guardrail walkthrough |
-| Character chat | Scenario-based AI simulations with attribution labels |
+| Character chat | Empathy-first protocol + scenario simulations with attribution labels |
 | Privacy | Browser `localStorage` only — no account required |
 | i18n | English and Chinese UI |
 | Demo mode | Seeded mock responses when no API key configured |
