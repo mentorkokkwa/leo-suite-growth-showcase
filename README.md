@@ -10,16 +10,17 @@ Public portfolio showcase for **YouthMentor AI** (Leo Suite).
 
 | Entry | URL |
 |-------|-----|
-| **YouthMentor home** | https://leo-suite-growth.vercel.app/youthmentor *(replace with your Production domain)* |
-| **Safety walkthrough** | `{production-domain}/youthmentor/safety-demo` |
-| **Character chat** | `{production-domain}/youthmentor/characters` |
-| **Vercel dashboard** | [vercel.com/cenzhi](https://vercel.com/cenzhi) |
+| **YouthMentor home** | https://growth-chi-two.vercel.app/youthmentor |
+| **Safety walkthrough** | https://growth-chi-two.vercel.app/youthmentor/safety-demo |
+| **Character chat** | https://growth-chi-two.vercel.app/youthmentor/characters |
+| **AI status (mock mode)** | https://growth-chi-two.vercel.app/api/ai/status |
+| **Vercel dashboard** | https://vercel.com/amylings-projects/growth |
 
 Related Leo Suite demos:
 
 | App | URL |
 |-----|-----|
-| EduLens AI | [leo-suite-edutech-showcase](https://github.com/mentorkokkwa/leo-suite-edutech-showcase) |
+| EduLens AI | https://edutech-olive-pi.vercel.app/edulens · [showcase repo](https://github.com/mentorkokkwa/leo-suite-edutech-showcase) |
 | CampusBot AI | https://leo-suite-robot.vercel.app/campusbot |
 
 ---
@@ -80,7 +81,7 @@ Non-sensitive excerpts in [sample/](sample/) — UI components and type definiti
 
 ## Note
 
-Some backend implementation details are kept private for safety, API security, and product protection. The live demo runs in **mock mode** on Vercel when no API keys are configured — suitable for school review without external API costs.
+Some backend implementation details are kept in the private repo (`mentorkokkwa/leo-suite-growth`) for safety, API security, and product protection. The live demo runs in **mock mode** on Vercel — suitable for school review without external API costs.
 
 ---
 
