@@ -1,6 +1,6 @@
 # AI for Smarter Schools and Student Support — YouthMentor AI
 
-Public portfolio showcase for **YouthMentor AI** (Leo Suite).
+Public portfolio showcase for **YouthMentor AI**.
 
 > Full application source is in a **private** repo deployed to Vercel. This repo contains documentation, demo links, and selected non-sensitive samples for DSA-JC portfolio review.
 
@@ -15,13 +15,6 @@ Public portfolio showcase for **YouthMentor AI** (Leo Suite).
 | **Character chat** | https://leo-suite-growth-swart.vercel.app/youthmentor/characters |
 | **AI status** | https://leo-suite-growth-swart.vercel.app/api/ai/status |
 | **Vercel dashboard** | https://vercel.com/cenzhi/leo-suite-growth |
-
-Related Leo Suite demos:
-
-| App | URL |
-|-----|-----|
-| EduLens AI | https://leo-suite-edutech-six.vercel.app/edulens · [showcase repo](https://github.com/mentorkokkwa/leo-suite-edutech-showcase) |
-| CampusBot AI | https://leo-suite-robot.vercel.app/campusbot |
 
 ---
 

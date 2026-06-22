@@ -28,7 +28,7 @@
 
 ## 2:20 — Technical (30 s)
 
-> "Next.js, TypeScript, multi-provider LLM with mock fallback. Part of Leo Suite with EduLens and CampusBot."
+> "Next.js, TypeScript, multi-provider LLM with mock fallback. Live demo and architecture docs on this showcase repo."
 
 ## 2:50 — Close (10 s)
 

@@ -30,7 +30,7 @@ flowchart TD
 
 ## AI provider layer
 
-Shared `EDULENS_*` environment with EduLens:
+Uses shared `EDULENS_*` environment variables for LLM configuration:
 
 | Mode | Behavior |
 |------|----------|
