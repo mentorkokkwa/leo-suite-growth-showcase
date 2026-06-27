@@ -10,10 +10,10 @@ Public portfolio showcase for **YouthMentor AI**.
 
 | Entry | URL |
 |-------|-----|
-| **YouthMentor home** | https://leo-suite-growth-swart.vercel.app/youthmentor |
-| **Safety walkthrough** | https://leo-suite-growth-swart.vercel.app/youthmentor/safety-demo |
-| **Character chat** | https://leo-suite-growth-swart.vercel.app/youthmentor/characters |
-| **AI status** | https://leo-suite-growth-swart.vercel.app/api/ai/status |
+| **YouthMentor home** | https://leo-suite-growth-swart.vercel.app/youthmentor?locale=en |
+| **Safety walkthrough** | https://leo-suite-growth-swart.vercel.app/youthmentor/safety-demo?locale=en |
+| **Character chat** | https://leo-suite-growth-swart.vercel.app/youthmentor/characters?locale=en |
+| **AI status** | https://leo-suite-growth-swart.vercel.app/api/ai/status?locale=en |
 | **Vercel dashboard** | https://vercel.com/cenzhi/leo-suite-growth |
 
 ---
